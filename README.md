@@ -10,7 +10,7 @@ This repository documents my homelab setup, network security experiments, and fi
 
 ## Lab Findings
 
-- [Lab Finding #1: Why OPNsense Could Not Block the SSH Brute Force Attack](Lab_Finding1)
+- [Lab Finding #1: Why OPNsense Could Not Block the SSH Brute Force Attack](notes/Lab_Finding_1_OPNsense_SSH_Brute_Force.md)
 
 
 ## Tools & Technologies
