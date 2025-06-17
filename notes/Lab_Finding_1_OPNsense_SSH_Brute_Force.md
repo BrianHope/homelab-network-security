@@ -12,7 +12,7 @@ Command - hydra -l ubuntu -P rockyou.txt ssh://192.168.1.X
 - Captured traffic on the other end using tcpdump
 
 Defense Solution:
-- Confifure firewall to block all traffic between VMs
+- Configure firewall to block all traffic between VMs
 
 Solution Result:
 - Despite the firewall rule being applied, the attack continuted on
